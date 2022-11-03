@@ -1,0 +1,45 @@
+table,
+td {
+    border-collapse: collapse;
+}
+
+.Container {
+    margin: 10px;
+}
+
+table,
+
+label {
+    width: 100%;
+}
+
+input,
+option,
+select {
+    width: 96%;
+}
+
+form {
+    padding: 0;
+    margin: 0;
+}
+
+td {
+    background-color: rgb(200, 228, 245);
+
+}
+
+h3 {
+    background-color: skyblue;
+}
+
+/* table,
+.labelStyle {
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+
+
+.labelStyle {
+    background-color: #96D4D4;
+} */
